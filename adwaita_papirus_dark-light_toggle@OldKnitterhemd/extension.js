@@ -55,6 +55,5 @@ function enable() {
 
 function disable() {
 	button.destroy();
-	//_icon.destroy();
 }
 
